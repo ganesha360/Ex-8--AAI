@@ -23,8 +23,8 @@ Step 11: Perform speech recognition with exceptional handling:<Br>
 
 <H3>Program:</H3>
 
-> Developed by : KANISHKAR M
-> Reg. No. 212222240044
+> Developed by : GANESH R
+> Reg. No. 212222240029
 
 ```py
 pip install SpeechRecognition
