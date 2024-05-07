@@ -1,7 +1,7 @@
- <H3>NAME: KANISHKAR M</H3>
-<H3>ENTER YOUR REGISTER NO: 212222240044</H3>
+ <H3>NAME: GANESH R</H3>
+<H3>ENTER YOUR REGISTER NO: 212222240029</H3>
 <H3>EX. NO.8</H3>
-<H3>DATE:28-04-2024</H3>
+<H3>DATE:07-05-2024</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
